@@ -4,7 +4,6 @@ I'm a developer and YouTube creator who likes making all sorts of things, becaus
 
 - 🌐 Website: https://mldkyt.com
 - 💻 Code: https://git.mldkyt.com
-- 🐘 Pleroma: https://pl.mldkyt.com/users/mldkyt
 - 🐘 Mastodon: https://soc.mldkyt.com
 
 On YouTube, I post pretty much everything, from gameplays to showing off my projects. I try to upload every Friday, but most of the time that doesn't work out because I have absolutely no idea what to upload. Such is the glamorous life of a content creator.
